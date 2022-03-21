@@ -1,0 +1,1 @@
+I learned how to navigate bash with commands. This document was created using the command "touch file name". I also learned what the difference between git and gitHub. I cloned the repository given to me so that I can upload my markdown file "Jose.md".
